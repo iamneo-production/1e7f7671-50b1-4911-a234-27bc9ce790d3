@@ -11,8 +11,8 @@ select "Blood Bank Name" from BLOOD_BANK where state='Andhra Pradesh';
 --3 total blood banks in dataset[executed]
 select count("Blood Bank Name") from BLOOD_BANK;
 
---4 first 5 rows[error]
---select "Blood Bank Name" from BLOOD_BANK order by "Blood Bank Name";
+--4 first 5 rows[executed]
+select "Blood Bank Name" from BLOOD_BANK order by "Blood Bank Name" fetch first 5 rows only;
 
 --5 blood banks in alphabetical order[executed]
 select "Blood Bank Name" from BLOOD_BANK order by "Blood Bank Name" asc;
