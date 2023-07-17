@@ -1,9 +1,9 @@
 SELECT state, count(*) from blood_bank group by state;
 
-select *  from blood_bank where state='Andhra Pradesh';
+SELECT * from blood_bank where state='Andhra Pradesh';
 
-select count(*) as total_count from blood_bank;
+SELECT count(*) as total_count from blood_bank;
 
-select * from blood_bank where rownum<=5 order by 'blood bank name';
+SELECT * from blood_bank where rownum<=5 order by 'blood bank name';
 
-select "Blood Bank Name" from blood_bank order by "Blood Bank Name";
+SELECT "Blood Bank Name" from blood_bank order by "Blood Bank Name";
