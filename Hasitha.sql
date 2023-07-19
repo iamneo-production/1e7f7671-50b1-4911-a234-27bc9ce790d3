@@ -10,7 +10,6 @@ WHERE State='Andhra Pradesh';
 SELECT COUNT(*) FROM BLOOD_BANK;
 
 --4
---SELECT "Blood Bank Name" FROM BLOOD_BANK ORDER BY "Blood Bank Name" ASC Fetch first 5 rows only ;
 SELECT * FROM(SELECT "Blood Bank Name" FROM BLOOD_BANK ORDER BY "Blood Bank Name") WHERE rownum<=5;
 
 --5
