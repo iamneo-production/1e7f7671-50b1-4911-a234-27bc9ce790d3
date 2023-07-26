@@ -11,7 +11,7 @@ SELECT "Blood Bank Name" FROM blood_bank WHERE STATE='Andhra Pradesh';
 --write a sql query to find the total count of blood banks in dataset
 select count(*) as total_blood_banks from blood_bank;
 
---write a sql query to display the first 5 b lood banks  names in ascending order
+--write a sql query to display the first 5 blood banks  names in ascending order
 SELECT "Blood Bank Name" FROM Blood_Bank order by 
 "Blood Bank Name" asc fetch first 5 rows only;
 
