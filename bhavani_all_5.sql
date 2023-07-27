@@ -1,6 +1,8 @@
 set timing on
+
+
 --write a sql query to find the total count of blood banks in each state
-SELECT STATE, COUNT(*) AS total_blood_banks
+explain plan for SELECT STATE, COUNT(*) AS total_blood_banks
 FROM blood_bank
 GROUP BY state;
 
