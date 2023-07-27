@@ -1,1 +1,0 @@
-select count(*) as total_blood_banks from blood_bank;
