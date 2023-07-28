@@ -20,4 +20,4 @@ select "Blood Bank Name" from BLOOD_BANK order by "Blood Bank Name" fetch first 
 
 select "Blood Bank Name" from BLOOD_BANK order by "Blood Bank Name" asc;
 
---set timing on;
+--set timing on
