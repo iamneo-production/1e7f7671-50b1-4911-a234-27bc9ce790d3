@@ -1,4 +1,5 @@
 --desc blood_bank;
+
 --1
 --select state,count("Blood Bank Name") as "Number of Blood Banks" from BLOOD_BANK group by state order by state;
 --select state,count("Blood Bank Name") from BLOOD_BANK group by state;
