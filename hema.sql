@@ -13,7 +13,7 @@ select * from blood_bank;
 
 --1. query to find total count of blood banks in each state
 
-select state, count(*) from blood_bank group by state;
+select state, count("Blood Bank Name") from blood_bank group by state;
 
 --2. query list out the blood banks in andhra pradeshs state
 
@@ -31,6 +31,6 @@ select "Blood Bank Name" from blood_bank where rownum<=5 order by "Blood Bank Na
 
 --5. query to list the blood bank name in alphabetical order
 
-select * from blood_bank order by "Blood Bank Name" asc;
+select "Blood Bank Name" from blood_bank order by "Blood Bank Name" asc;
 
 
