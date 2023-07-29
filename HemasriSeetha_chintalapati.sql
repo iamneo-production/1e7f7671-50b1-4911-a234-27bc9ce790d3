@@ -18,7 +18,7 @@ select count(*) as total_blood_banks from blood_bank;
 
 -- select "Blood Bank Name" from blood_bank where rownum<=5 order by "Blood Bank Name" ;
 
-select "Blood Bank Name" from (select * from blood_bank order by "Blood Bank Name" ) where rownum<=5;
+select "Blood Bank Name" from (select "Blood Bank Name" from blood_bank order by "Blood Bank Name" ) where rownum<=5;
 
 --5. query to list the blood bank name in alphabetical order
 
