@@ -16,4 +16,4 @@ select "Blood Bank Name" from BLOOD_BANK order by "Blood Bank Name" fetch first 
 --select * from(select "Blood Bank Name" from BLOOD_BANK order by "Blood Bank Name")where rownum <= 5;
 --5
 --blood bank names in alphabetical
-select "Blood Bank Name" from BLOOD_BANK order by "Blood Bank Name";
+select "Blood Bank Name" from BLOOD_BANK order by "Blood Bank Name" asc;
