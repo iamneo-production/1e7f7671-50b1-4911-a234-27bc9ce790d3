@@ -1,5 +1,3 @@
-/* Sql performance quries organ donor */
-
 SELECT state, count(*) from blood_bank group by state;
 
 SELECT * from blood_bank where state='Andhra Pradesh';
