@@ -10,7 +10,7 @@ WHERE State='Andhra Pradesh';
 SELECT COUNT("Blood Bank Name") FROM BLOOD_BANK;
 
 --4
-SELECT * FROM(SELECT "Blood Bank Name" FROM BLOOD_BANK ORDER BY "Blood Bank Name") WHERE rownum<=5;
+SELECT "Blood Bank Name" FROM(SELECT "Blood Bank Name" FROM BLOOD_BANK ORDER BY "Blood Bank Name" ASC) WHERE rownum<=5;
 
 --5
 SELECT "Blood Bank Name" FROM BLOOD_BANK 
