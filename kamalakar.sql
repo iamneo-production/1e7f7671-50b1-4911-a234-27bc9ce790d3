@@ -1,4 +1,4 @@
-/* sql performance quries*/
+/* Sql performance quries organ donor */
 
 SELECT state, count(*) from blood_bank group by state;
 
