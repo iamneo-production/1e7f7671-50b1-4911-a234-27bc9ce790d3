@@ -6,23 +6,43 @@
 	</projects>
 	<buildSpec>
 		<buildCommand>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> Oracle-Workspace-JahnaviNeerukonda
 			<name>org.eclipse.jdt.core.javabuilder</name>
 			<arguments>
 			</arguments>
 		</buildCommand>
 		<buildCommand>
+<<<<<<< HEAD
+=======
+>>>>>>> Oracle-Workspace-jashu0692
+>>>>>>> Oracle-Workspace-JahnaviNeerukonda
 			<name>org.eclipse.m2e.core.maven2Builder</name>
 			<arguments>
 			</arguments>
 		</buildCommand>
 	</buildSpec>
 	<natures>
+<<<<<<< HEAD
 		<nature>org.eclipse.jdt.core.javanature</nature>
+=======
+<<<<<<< HEAD
+=======
+		<nature>org.eclipse.jdt.core.javanature</nature>
+>>>>>>> Oracle-Workspace-jashu0692
+>>>>>>> Oracle-Workspace-JahnaviNeerukonda
 		<nature>org.eclipse.m2e.core.maven2Nature</nature>
 	</natures>
 	<filteredResources>
 		<filter>
+<<<<<<< HEAD
 			<id>1690563224406</id>
+=======
+			<id>1688624222813</id>
+>>>>>>> Oracle-Workspace-JahnaviNeerukonda
 			<name></name>
 			<type>30</type>
 			<matcher>
