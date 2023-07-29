@@ -1,6 +1,4 @@
 
-SELECT * FROM BLOOD_BANK;
-
 desc BLOOD_BANK;
 
 /*write a sql query to find 
