@@ -17,7 +17,7 @@ select count(id) from BLOOD_BANK;
 select * from(select "Blood Bank Name" from BLOOD_BANK order by "Blood Bank Name")where rownum <= 5;
 
 --5
-select "Blood Bank Name" from BLOOD_BANK order by "Blood Bank Name" ASC;
+--select "Blood Bank Name" from BLOOD_BANK order by "Blood Bank Name" ASC;
 --select "Blood Bank Name" from BLOOD_BANK order by "Blood Bank Name" asc fetch first 5 rows only;
 select * from(select "Blood Bank Name" from BLOOD_BANK order by "Blood Bank Name" ASC)where rownum <= 5;
 
