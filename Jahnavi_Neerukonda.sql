@@ -17,5 +17,4 @@ select count(id) as TOTAL_BLOOD_BANKS from BLOOD_BANK;
 select "Blood Bank Name" from BLOOD_BANK order by "Blood Bank Name" fetch first 5 rows only;
 
 --5. write an sql query to list blood bank names in alphabetical order
-
 select "Blood Bank Name" from BLOOD_BANK order by "Blood Bank Name" asc;
