@@ -1,7 +1,6 @@
 --set timing on;
 --1 SQL query to find the total count of blood banks in each state[executed]
 
-select * from 
 set timing on;
 select state,count("Blood Bank Name") from BLOOD_BANK group by state;
 
