@@ -10,7 +10,11 @@
 =======
 <<<<<<< HEAD
 =======
+<<<<<<< HEAD
 >>>>>>> Oracle-Workspace-JahnaviNeerukonda
+=======
+>>>>>>> 10d82fa76b34d9f2d61e5315421a056a70470080
+>>>>>>> 42541b926871e1988014a68dff47739b83a26a4a
 			<name>org.eclipse.jdt.core.javabuilder</name>
 			<arguments>
 			</arguments>
@@ -19,7 +23,11 @@
 <<<<<<< HEAD
 =======
 >>>>>>> Oracle-Workspace-jashu0692
+<<<<<<< HEAD
 >>>>>>> Oracle-Workspace-JahnaviNeerukonda
+=======
+>>>>>>> 10d82fa76b34d9f2d61e5315421a056a70470080
+>>>>>>> 42541b926871e1988014a68dff47739b83a26a4a
 			<name>org.eclipse.m2e.core.maven2Builder</name>
 			<arguments>
 			</arguments>
@@ -33,16 +41,27 @@
 =======
 		<nature>org.eclipse.jdt.core.javanature</nature>
 >>>>>>> Oracle-Workspace-jashu0692
+<<<<<<< HEAD
 >>>>>>> Oracle-Workspace-JahnaviNeerukonda
+=======
+>>>>>>> 10d82fa76b34d9f2d61e5315421a056a70470080
+>>>>>>> 42541b926871e1988014a68dff47739b83a26a4a
 		<nature>org.eclipse.m2e.core.maven2Nature</nature>
 	</natures>
 	<filteredResources>
 		<filter>
 <<<<<<< HEAD
+<<<<<<< HEAD
 			<id>1690563224406</id>
 =======
 			<id>1688624222813</id>
 >>>>>>> Oracle-Workspace-JahnaviNeerukonda
+=======
+			<id>1688359548488</id>
+=======
+			<id>1688624222813</id>
+>>>>>>> 10d82fa76b34d9f2d61e5315421a056a70470080
+>>>>>>> 42541b926871e1988014a68dff47739b83a26a4a
 			<name></name>
 			<type>30</type>
 			<matcher>
