@@ -1,4 +1,3 @@
---set timing on;
 --1 SQL query to find the total count of blood banks in each state
 
 set timing on;
