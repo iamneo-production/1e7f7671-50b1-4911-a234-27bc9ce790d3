@@ -16,3 +16,4 @@ select "Blood Bank Name" from BLOOD_BANK order by "Blood Bank Name" fetch first 
 
 --5. write an sql query to list blood bank names in alphabetical order
 select "Blood Bank Name" from BLOOD_BANK order by "Blood Bank Name" asc;
+
