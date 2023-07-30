@@ -1,4 +1,5 @@
 --1
+
 SELECT state,count("Blood Bank Name") 
 FROM BLOOD_BANK GROUP BY state;
 
