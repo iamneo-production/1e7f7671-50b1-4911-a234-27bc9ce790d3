@@ -20,4 +20,5 @@ select "Blood Bank Name" from BLOOD_BANK order by "Blood Bank Name" fetch first 
 
 --5
 --blood bank
+--bank
 select "Blood Bank Name" from BLOOD_BANK order by "Blood Bank Name" asc;

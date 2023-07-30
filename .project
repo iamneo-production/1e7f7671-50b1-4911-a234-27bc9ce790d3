@@ -7,6 +7,8 @@
 	<buildSpec>
 		<buildCommand>
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
 <<<<<<< HEAD
@@ -34,6 +36,7 @@
 >>>>>>> 85e11f9c86d17ce93e192c0a48eccbd59603766e
 >>>>>>> baddd4d8a37ddbd0b2cc240e40914024e2ceeacf
 >>>>>>> 618782b3639e23ec18759cfee0ca164bc911716b
+>>>>>>> f9ec6e555f5c8afb36f91d22d1aa7876a7ad9d00
 			<name>org.eclipse.jdt.core.javabuilder</name>
 			<arguments>
 			</arguments>
@@ -42,6 +45,8 @@
 <<<<<<< HEAD
 =======
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
 >>>>>>> Oracle-Workspace-jashu0692
@@ -65,6 +70,7 @@
 >>>>>>> 85e11f9c86d17ce93e192c0a48eccbd59603766e
 >>>>>>> baddd4d8a37ddbd0b2cc240e40914024e2ceeacf
 >>>>>>> 618782b3639e23ec18759cfee0ca164bc911716b
+>>>>>>> f9ec6e555f5c8afb36f91d22d1aa7876a7ad9d00
 			<name>org.eclipse.m2e.core.maven2Builder</name>
 			<arguments>
 			</arguments>
@@ -72,6 +78,9 @@
 	</buildSpec>
 	<natures>
 <<<<<<< HEAD
+		<nature>org.eclipse.jdt.core.javanature</nature>
+=======
+<<<<<<< HEAD
 <<<<<<< HEAD
 		<nature>org.eclipse.jdt.core.javanature</nature>
 =======
@@ -108,6 +117,7 @@
 >>>>>>> 85e11f9c86d17ce93e192c0a48eccbd59603766e
 >>>>>>> baddd4d8a37ddbd0b2cc240e40914024e2ceeacf
 >>>>>>> 618782b3639e23ec18759cfee0ca164bc911716b
+>>>>>>> f9ec6e555f5c8afb36f91d22d1aa7876a7ad9d00
 		<nature>org.eclipse.m2e.core.maven2Nature</nature>
 	</natures>
 	<filteredResources>
