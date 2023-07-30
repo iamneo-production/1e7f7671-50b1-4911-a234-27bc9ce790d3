@@ -11,11 +11,7 @@
 =======
 <<<<<<< HEAD
 =======
-<<<<<<< HEAD
->>>>>>> Oracle-Workspace-JahnaviNeerukonda
-=======
->>>>>>> 10d82fa76b34d9f2d61e5315421a056a70470080
->>>>>>> 42541b926871e1988014a68dff47739b83a26a4a
+>>>>>>> a0a67f345f9cecfd6d668ab5d2b9a981e60022ab
 			<name>org.eclipse.jdt.core.javabuilder</name>
 			<arguments>
 			</arguments>
@@ -24,16 +20,9 @@
 <<<<<<< HEAD
 =======
 >>>>>>> Oracle-Workspace-jashu0692
-<<<<<<< HEAD
->>>>>>> Oracle-Workspace-JahnaviNeerukonda
+>>>>>>> a0a67f345f9cecfd6d668ab5d2b9a981e60022ab
 =======
->>>>>>> 10d82fa76b34d9f2d61e5315421a056a70470080
-<<<<<<< HEAD
->>>>>>> 42541b926871e1988014a68dff47739b83a26a4a
-=======
-=======
->>>>>>> Oracle-Workspace-jashu0692
->>>>>>> f598e4731124adec53b0b7b1669805e5a917bee2
+>>>>>>> d915ce60d168a0f4a8565330841abb511a53ecd8
 			<name>org.eclipse.m2e.core.maven2Builder</name>
 			<arguments>
 			</arguments>
@@ -48,43 +37,18 @@
 =======
 		<nature>org.eclipse.jdt.core.javanature</nature>
 >>>>>>> Oracle-Workspace-jashu0692
-<<<<<<< HEAD
->>>>>>> Oracle-Workspace-JahnaviNeerukonda
+>>>>>>> a0a67f345f9cecfd6d668ab5d2b9a981e60022ab
 =======
->>>>>>> 10d82fa76b34d9f2d61e5315421a056a70470080
-<<<<<<< HEAD
->>>>>>> 42541b926871e1988014a68dff47739b83a26a4a
-=======
-=======
->>>>>>> Oracle-Workspace-jashu0692
->>>>>>> f598e4731124adec53b0b7b1669805e5a917bee2
+>>>>>>> d915ce60d168a0f4a8565330841abb511a53ecd8
 		<nature>org.eclipse.m2e.core.maven2Nature</nature>
 	</natures>
 	<filteredResources>
 		<filter>
 <<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-			<id>1690605536748</id>
+			<id>1688713545539</id>
 =======
 			<id>1688624222813</id>
 >>>>>>> a0a67f345f9cecfd6d668ab5d2b9a981e60022ab
-=======
-			<id>1690563224406</id>
-=======
-			<id>1688624222813</id>
->>>>>>> Oracle-Workspace-JahnaviNeerukonda
->>>>>>> 2f7259543186b703225c65c0373e36bba89293a3
-=======
-			<id>1688359548488</id>
-=======
-			<id>1688624222813</id>
->>>>>>> 10d82fa76b34d9f2d61e5315421a056a70470080
-<<<<<<< HEAD
->>>>>>> 44187aee20df9c1e1ac13711ecb6456393f3253f
-=======
->>>>>>> 42541b926871e1988014a68dff47739b83a26a4a
->>>>>>> 2f7259543186b703225c65c0373e36bba89293a3
 			<name></name>
 			<type>30</type>
 			<matcher>
