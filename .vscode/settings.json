@@ -1,3 +1,7 @@
 {
+<<<<<<< HEAD
+    "java.configuration.updateBuildConfiguration": "disabled"
+=======
     "java.configuration.updateBuildConfiguration": "automatic"
+>>>>>>> d915ce60d168a0f4a8565330841abb511a53ecd8
 }
