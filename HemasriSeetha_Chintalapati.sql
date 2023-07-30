@@ -22,5 +22,3 @@ select "Blood Bank Name" from blood_bank order by "Blood Bank Name" fetch first 
 --5. query to list the blood bank name in alphabetical order
 
 select "Blood Bank Name" from blood_bank order by "Blood Bank Name" asc;
-
-
