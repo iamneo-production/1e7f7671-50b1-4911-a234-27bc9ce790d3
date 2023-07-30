@@ -1,5 +1,3 @@
-
-
 desc BLOOD_BANK;
 
 --write a sql query to find the total count of blood banks in each state
