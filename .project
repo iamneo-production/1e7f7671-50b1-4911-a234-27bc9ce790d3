@@ -10,7 +10,10 @@
 =======
 <<<<<<< HEAD
 =======
+<<<<<<< HEAD
+=======
 >>>>>>> 04f9c60bea2976cc76adc8e3f6a0c3e96b765d13
+>>>>>>> Oracle-Workspace-kaviyanjali
 			<name>org.eclipse.jdt.core.javabuilder</name>
 			<arguments>
 			</arguments>
@@ -18,8 +21,11 @@
 		<buildCommand>
 <<<<<<< HEAD
 =======
+<<<<<<< HEAD
+=======
 >>>>>>> Oracle-Workspace-jashu0692
 >>>>>>> 04f9c60bea2976cc76adc8e3f6a0c3e96b765d13
+>>>>>>> Oracle-Workspace-kaviyanjali
 			<name>org.eclipse.m2e.core.maven2Builder</name>
 			<arguments>
 			</arguments>
@@ -30,10 +36,14 @@
 		<nature>org.eclipse.jdt.core.javanature</nature>
 =======
 <<<<<<< HEAD
+		<nature>org.eclipse.jdt.core.javanature</nature>
+=======
+<<<<<<< HEAD
 =======
 		<nature>org.eclipse.jdt.core.javanature</nature>
 >>>>>>> Oracle-Workspace-jashu0692
 >>>>>>> 04f9c60bea2976cc76adc8e3f6a0c3e96b765d13
+>>>>>>> Oracle-Workspace-kaviyanjali
 		<nature>org.eclipse.m2e.core.maven2Nature</nature>
 	</natures>
 	<filteredResources>
@@ -41,8 +51,12 @@
 <<<<<<< HEAD
 			<id>1688714092383</id>
 =======
+<<<<<<< HEAD
+			<id>1688714092383</id>
+=======
 			<id>1688624222813</id>
 >>>>>>> 04f9c60bea2976cc76adc8e3f6a0c3e96b765d13
+>>>>>>> Oracle-Workspace-kaviyanjali
 			<name></name>
 			<type>30</type>
 			<matcher>
