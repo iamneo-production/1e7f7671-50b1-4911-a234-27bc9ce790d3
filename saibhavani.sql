@@ -19,4 +19,3 @@ SELECT "Blood Bank Name" FROM Blood_Bank order by
 --write a sql query to list the blood bank names in alphabetical order
 
 select "Blood Bank Name" from blood_bank order by "Blood Bank Name" asc;
-
