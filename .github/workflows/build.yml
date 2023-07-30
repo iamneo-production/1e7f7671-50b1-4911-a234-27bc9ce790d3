@@ -2,7 +2,7 @@ name: Build
 on:
   push:
     branches:
-      - main
+      - '*'
   pull_request:
     types: [opened, synchronize, reopened]
 jobs:
@@ -21,4 +21,4 @@ jobs:
           SONAR_TOKEN: 811c9a490983734401ba4e491eaefc8bfa7281de
 =======
           SONAR_TOKEN: 811c9a490983734401ba4e491eaefc8bfa7281de
->>>>>>> a0a67f345f9cecfd6d668ab5d2b9a981e60022ab
+>>>>>>> 42d030daa5dd6e9eeec28a33eb8a7a102e02c363
