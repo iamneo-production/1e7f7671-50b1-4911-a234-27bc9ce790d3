@@ -15,4 +15,3 @@ SELECT "Blood Bank Name" FROM(SELECT "Blood Bank Name" FROM BLOOD_BANK ORDER BY 
 --5
 SELECT "Blood Bank Name" FROM BLOOD_BANK 
 ORDER BY "Blood Bank Name" ASC;
-
