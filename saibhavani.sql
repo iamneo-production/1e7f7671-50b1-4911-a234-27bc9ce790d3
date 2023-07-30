@@ -13,10 +13,9 @@ select count(*) as total_blood_banks from blood_bank;
 
 --write a sql query to display the first 5 b lood banks  names in ascending order
 
-SELECT "Blood Bank Name" FROM Blood_Bank order by 
+SELECT "Blood Bank Name" FROM Blood_Bank ORDER BY
 "Blood Bank Name" asc fetch first 5 rows only;
 
 --write a sql query to list the blood bank names in alphabetical order
 
-select "Blood Bank Name" from blood_bank order by "Blood Bank Name" asc;
-
+select "Blood Bank Name" from blood_bank order by "Blood Bank Name" ASC;
