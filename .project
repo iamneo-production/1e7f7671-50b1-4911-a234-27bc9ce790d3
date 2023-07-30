@@ -7,14 +7,19 @@
 	<buildSpec>
 		<buildCommand>
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 =======
+<<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> 04f9c60bea2976cc76adc8e3f6a0c3e96b765d13
 =======
 >>>>>>> 10d82fa76b34d9f2d61e5315421a056a70470080
 >>>>>>> 44187aee20df9c1e1ac13711ecb6456393f3253f
+=======
+>>>>>>> a0a67f345f9cecfd6d668ab5d2b9a981e60022ab
+>>>>>>> 85e11f9c86d17ce93e192c0a48eccbd59603766e
 			<name>org.eclipse.jdt.core.javabuilder</name>
 			<arguments>
 			</arguments>
@@ -24,16 +29,23 @@
 =======
 >>>>>>> Oracle-Workspace-jashu0692
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 04f9c60bea2976cc76adc8e3f6a0c3e96b765d13
 =======
 >>>>>>> 10d82fa76b34d9f2d61e5315421a056a70470080
 >>>>>>> 44187aee20df9c1e1ac13711ecb6456393f3253f
+=======
+>>>>>>> a0a67f345f9cecfd6d668ab5d2b9a981e60022ab
+=======
+>>>>>>> d915ce60d168a0f4a8565330841abb511a53ecd8
+>>>>>>> 85e11f9c86d17ce93e192c0a48eccbd59603766e
 			<name>org.eclipse.m2e.core.maven2Builder</name>
 			<arguments>
 			</arguments>
 		</buildCommand>
 	</buildSpec>
 	<natures>
+<<<<<<< HEAD
 <<<<<<< HEAD
 		<nature>org.eclipse.jdt.core.javanature</nature>
 =======
@@ -42,14 +54,21 @@
 		<nature>org.eclipse.jdt.core.javanature</nature>
 >>>>>>> Oracle-Workspace-jashu0692
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 04f9c60bea2976cc76adc8e3f6a0c3e96b765d13
 =======
 >>>>>>> 10d82fa76b34d9f2d61e5315421a056a70470080
 >>>>>>> 44187aee20df9c1e1ac13711ecb6456393f3253f
+=======
+>>>>>>> a0a67f345f9cecfd6d668ab5d2b9a981e60022ab
+=======
+>>>>>>> d915ce60d168a0f4a8565330841abb511a53ecd8
+>>>>>>> 85e11f9c86d17ce93e192c0a48eccbd59603766e
 		<nature>org.eclipse.m2e.core.maven2Nature</nature>
 	</natures>
 	<filteredResources>
 		<filter>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 			<id>1688730011787</id>
@@ -62,6 +81,12 @@
 			<id>1688624222813</id>
 >>>>>>> 10d82fa76b34d9f2d61e5315421a056a70470080
 >>>>>>> 44187aee20df9c1e1ac13711ecb6456393f3253f
+=======
+			<id>1688713545539</id>
+=======
+			<id>1688624222813</id>
+>>>>>>> a0a67f345f9cecfd6d668ab5d2b9a981e60022ab
+>>>>>>> 85e11f9c86d17ce93e192c0a48eccbd59603766e
 			<name></name>
 			<type>30</type>
 			<matcher>
