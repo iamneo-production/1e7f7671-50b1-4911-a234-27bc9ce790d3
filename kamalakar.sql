@@ -15,7 +15,8 @@ SELECT count(*) as total_count from blood_bank;
 
 /*Wirte a SQL Query to display the first 5 blood banks '  names in ascending order */
 
-SELECT * from blood_bank where rownum<=5 order by 'Blood Bank name';
+SELECT * from blood_bank
+where rownum<=5 order by 'Blood Bank name';
 
 /*Write a SQL Query to list the blood bank names in alphabetical order */
 
