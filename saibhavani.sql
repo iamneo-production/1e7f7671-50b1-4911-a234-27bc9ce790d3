@@ -20,5 +20,3 @@ SELECT "Blood Bank Name" FROM Blood_Bank order by
 
 select "Blood Bank Name" from blood_bank order by "Blood Bank Name" asc;
 
-
-
