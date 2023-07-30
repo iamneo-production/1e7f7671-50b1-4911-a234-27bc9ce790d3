@@ -18,8 +18,4 @@ select count("Blood Bank Name") from BLOOD_BANK;
 select * from(select "Blood Bank Name" from BLOOD_BANK order by "Blood Bank Name" asc)where rownum <= 5;
 
 --5
-<<<<<<< HEAD
 select "Blood Bank Name" from BLOOD_BANK order by "Blood Bank Name" ASC;
-=======
-select "Blood Bank Name" from BLOOD_BANK order by "Blood Bank Name" ASC;
->>>>>>> main
