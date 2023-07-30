@@ -1,5 +1,3 @@
-
-
 desc BLOOD_BANK;
 
 --write a sql query to find the total count of blood banks in each state
@@ -26,7 +24,3 @@ SELECT "Blood Bank Name" FROM BLOOD_BANK ORDER BY "Blood Bank Name" ASC
 
  SELECT "Blood Bank Name" FROM BLOOD_BANK 
   ORDER BY "Blood Bank Name" ASC;
-  
-  
-
-  

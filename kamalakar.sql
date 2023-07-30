@@ -1,5 +1,4 @@
 -- Sql performance queries
-
 set timing on;
 -- Write a SQL Query to find the total count of blood bank in each state 
 
