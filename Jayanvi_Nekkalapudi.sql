@@ -24,7 +24,3 @@ SELECT "Blood Bank Name" FROM BLOOD_BANK ORDER BY "Blood Bank Name" ASC
 
  SELECT "Blood Bank Name" FROM BLOOD_BANK 
   ORDER BY "Blood Bank Name" ASC;
-  
-  
-
-  
